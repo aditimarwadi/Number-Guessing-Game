@@ -19,6 +19,14 @@ A fun Python console game where the user guesses a randomly generated number in 
 - Counter Variables (for attempts)
 - Basic Game Logic
 
+# Skills Used
+- Python loops & conditionals
+- Random number generation
+- User input handling & validation
+- Counters & attempt tracking
+- Game logic & flow control
+- Problem-solving & debugging
+
 # How to Run
 1. Install Python on your system.
 2. Run using: `python number_guess.py`
